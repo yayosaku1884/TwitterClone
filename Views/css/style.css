@@ -48,6 +48,8 @@
 }
  
 a {
+    font-size:13px;
+    color:#1af;
     text-decoration: none;
 }
  
@@ -203,7 +205,7 @@ a {
 }
  
 .home .tweet-list .tweet .name a .user-name {
-    color: rgb(23, 21, 21);
+    color: #444;
     font-size: 14px;
 }
  
