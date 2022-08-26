@@ -2,7 +2,7 @@
 // いいね！用のJavaScript
 ///////////////////////////////////////
  
-$(function () {
+$(function(){
     // いいね！がクリックされたとき
     $('.js-like').click(function () {
         const this_obj = $(this);
