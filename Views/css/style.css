@@ -67,6 +67,10 @@ a {
     text-decoration: none;
 }
  
+.text-sm {
+    font-size: 0.7rem;
+}
+ 
 /*
 サイド
 ****/
@@ -378,7 +382,7 @@ body.signup {
     max-width: 300px;
     margin-right: 10px;
 }
-
+ 
 /*
 通知
 ****/
